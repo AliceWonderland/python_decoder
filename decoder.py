@@ -5,6 +5,7 @@ Decode an input.txt file made up of strs delimited by whitespace and newline. ex
     "3 love\ncomputers\n2 dogs\n4 cats\n1 I\n5 you"
 
 Using encoded numbers given in a pyramid scheme of last number in each newline formatted like this:
+
        1
       2 3
      4 5 6
